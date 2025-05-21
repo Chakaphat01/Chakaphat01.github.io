@@ -24,4 +24,4 @@ const formSlice = createSlice({
 });
 
 export const { setName, setEmail } = formSlice.actions;
-export default formSlice.reducer;
+export default formSlice;
