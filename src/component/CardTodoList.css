@@ -1,0 +1,12 @@
+.btn-card {
+    margin: 5px;
+    background-color: rgb(175, 172, 172);
+    font-size: small;
+}
+.card-text{
+    border: 15px;
+    background-color: rgb(236, 178, 102);
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

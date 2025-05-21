@@ -1,0 +1,56 @@
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+.btn_home{
+    display: flex;
+    padding: 15px;
+    gap: 15px;
+
+}
+.btn_home02{
+    border-style: solid;
+    border-width: 1px;
+    padding: 15px;
+    border-radius: 50%;
+    transition-duration: 0.4s;
+}
+.btn_home02:hover{
+    background-color: #04AA6D;
+    color: white; 
+}
+.btn_home03{
+    border-style: solid;
+    border-width: 1px;
+    padding: 15px;
+    border-radius: 50%;
+    transition-duration: 0.4s;
+}
+.btn_home03:hover{
+    background-color: #3304aa;
+    color: white; 
+}
+.btn_home04{
+    border-style: solid;
+    border-width: 1px;
+    padding: 15px;
+    border-radius: 50%;
+    transition-duration: 0.4s;
+}
+.btn_home04:hover{
+    background-color: #aaaa04;
+    color: white; 
+}
+.btn_home05{
+    border-style: solid;
+    border-width: 1px;
+    padding: 15px;
+    border-radius: 50%;
+    transition-duration: 0.4s;
+}
+.btn_home05:hover{
+    background-color: #aa2804;
+    color: white; 
+}

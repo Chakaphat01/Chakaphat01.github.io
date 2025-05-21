@@ -1,0 +1,21 @@
+.submit_form{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+}
+.button_form{
+    display: flex;
+    justify-self: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    transition-duration: scale 400ms ease-in-out ;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+.button_form:hover{
+    background-color: #686c6b;
+    color: white;
+}

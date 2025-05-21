@@ -1,0 +1,14 @@
+.btn1{
+    margin-left: 15px;
+
+}
+
+.boxinput-main{
+    display: flexbox;
+    margin-bottom: 50px;
+}
+
+.inputbox {
+    margin-top: 15px;
+    font-size: larger;
+}

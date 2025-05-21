@@ -1,0 +1,39 @@
+.big_page{
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+    padding: 50px;
+    background-color: rgb(182, 182, 182);
+}
+.page01{
+    padding: 30px;
+    background-color: rgb(120, 133, 148);
+    height: 100%;
+}
+.img_page01{
+    width: 10;
+    height: 10;
+}
+.page02{
+    padding: 30px;
+    background-color: rgb(217, 215, 215);
+}
+.form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    width: 100%;
+}
+.btn_sub{
+    border-style: solid;
+    border-width: 1px;
+    padding: 15px;
+    border-radius: 12px;
+    transition-duration: 0.1s;
+}
+.btn_sub:hover{
+    background-color: #999393;
+}
+.btn_position{
+    display: flex;
+    justify-content: center;
+}

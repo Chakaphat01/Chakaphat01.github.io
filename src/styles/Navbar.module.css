@@ -1,0 +1,26 @@
+.navbar{
+    background-color:rgb(84, 84, 84);
+    display: flex;
+    padding: 25px;
+    justify-content: center;
+    gap: 10px;
+    flex-direction: row;
+    justify-content: space-around;
+    transition-duration: 0.4s; 
+}
+.navbar:hover{
+    background-color: #787878;
+}
+.title{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-style: solid;
+    padding:10px;
+    transition-duration: 0.1s;
+    border-radius: 50%;
+    font-size: 30px;
+}
+.title:hover{
+    background-color: #4b4235;
+    color: white; 
+}
