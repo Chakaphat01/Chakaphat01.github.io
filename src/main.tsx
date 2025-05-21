@@ -5,6 +5,6 @@ import './index.css'
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
          {/* <AppRouter/> */}
-<div>test publish</div>
+<div>test publish 2</div>
   </StrictMode>
 )
